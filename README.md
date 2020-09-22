@@ -1,2 +1,5 @@
 # hello-world
-practicing as a fresh developer to github
+
+Hi Everyone!
+
+Ahmed here, i like javascript and i want to learn it no matter what.
